@@ -1,1 +1,1 @@
-*.Ruby linguist-vendored
+*.scss linguist-detectable=false
