@@ -6,6 +6,9 @@
   https://jaehyun-github.github.io/ParisBaguette/ParisBaguette_sub.html (서브 페이지)
   <br>
   <br>
+  ** 메인 페이지에서 STORE 버튼을 눌러도 서브 페이지로 이동 합니다. **
+  <br>
+  <br>
 </div>
 
 ![p1](https://user-images.githubusercontent.com/105622596/194212345-873b1f2a-eecf-4c6a-93a6-b707ba0a9fca.JPG)
