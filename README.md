@@ -9,6 +9,7 @@
   
   ParisBaguette 리뉴얼
   
+  - Visual Studio Code
   - 사용한 라이브러리 : JQuery, Slick
   
   <br>
