@@ -9,7 +9,8 @@
   
   ParisBaguette 리뉴얼
   
-  - Visual Studio Code
+  - Visual Studio Code 
+  - HTML, CSS, JavaScript
   - 사용한 라이브러리 : JQuery, Slick
   
   <br>
