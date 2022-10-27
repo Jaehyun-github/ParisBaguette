@@ -3,7 +3,7 @@
   https://jaehyun-github.github.io/ParisBaguette/ParisBaguette_sub.html (서브 페이지)
   <br>
   <br>
-  ** 메인 페이지에서 STORE 버튼을  서브 페이지로 이동 합니다. **
+  ** 메인 페이지에서 STORE 버튼을 누르면 서브 페이지로 이동 합니다. **
   <br>
   <br>
   
