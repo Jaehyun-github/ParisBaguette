@@ -18,6 +18,8 @@
   팀 프로젝트로 리뉴얼 해보는 "ParisBaguette" 웹사이트입니다. <br>
   
   기존 웹사이트를 팀원과 함께 분석하며 불편한 점과 개선해야 할 것들을 찾아 리뉴얼의 방향을 잡았습니다. <br>
+  
+![parisbaguette](https://user-images.githubusercontent.com/105622596/199063515-4ada97bc-f32c-4022-82b9-46d5b549ff62.gif)
 
 ![p5](https://user-images.githubusercontent.com/105622596/194212358-1dcfdc31-33a7-4872-9584-a86efb91c6dd.JPG)
 ![p24](https://user-images.githubusercontent.com/105622596/194212401-f6b2616f-10a2-435f-b4d9-e4004efa7167.JPG)
